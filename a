@@ -1,0 +1,229 @@
+[33mcommit 2719b27466c15c20fdf7cc6195dba505a77261a9[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/community/LeandroPAlmeida[m[33m)[m
+Author: Byakura <vectragt28@hotmail.com>
+Date:   Thu Dec 28 22:07:38 2023 -0300
+
+    feat: add LeandroPAlmeida profile
+
+[33mcommit 6b63e37ccc4375f6b8447aa4230d7ef0e59ba5e1[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 73145d1f3 20983383b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 22:36:28 2023 +0000
+
+    Merge pull request #20212 from HamiltonGJr/feat/community/HamiltonGJr
+
+[33mcommit 73145d1f344afd292bf684c53381e5cb8f9dd5c6[m
+Merge: 122007ce4 e7a1e84bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 22:34:31 2023 +0000
+
+    Merge pull request #20211 from GeovannaMiller/branch-feat/community/GeovannaMiller
+
+[33mcommit 20983383bfaae3e54a8e3ce2618d7d599dcf77cf[m
+Author: Hamilton Gonçalves <hamilton27089@gmail.com>
+Date:   Thu Dec 28 19:29:42 2023 -0300
+
+    feat: add HamiltonGJr profile
+
+[33mcommit e7a1e84bb2b9dfe6ce6f89c9fa424a5927362896[m
+Author: Geovanna Miller <133885008+GeovannaMiller@users.noreply.github.com>
+Date:   Thu Dec 28 19:16:32 2023 -0300
+
+    Create GeovannaMiller.md
+
+[33mcommit 122007ce409bf622ad10cf379309be05e9c75be4[m
+Merge: 8684b8c51 c418f897c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 21:44:38 2023 +0000
+
+    Merge pull request #20209 from Bigeus/feat/community/Bigeus
+
+[33mcommit c418f897c4cf2ff258a8f9b67e86e6c9d585fe62[m
+Author: Bigeus <143043849+Bigeus@users.noreply.github.com>
+Date:   Thu Dec 28 18:42:14 2023 -0300
+
+    Create Bigeus.md
+
+[33mcommit 8684b8c513ce7534f3a886b70ad7b106cb181ad0[m
+Merge: 7a52a4e0e 24cb8a447
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 21:41:18 2023 +0000
+
+    Merge pull request #20208 from dan36poars/feat/community/dan36poars
+
+[33mcommit 7a52a4e0ee4adaeb49f55455b1699002d99ac521[m
+Merge: d46e9fda7 7c5c54a20
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 21:30:36 2023 +0000
+
+    Merge pull request #20206 from Nvutu-Eladio/feat/community/Nvutu-Eladio
+
+[33mcommit 7c5c54a20560335bbf89d873fc9f43c39d1729c1[m
+Author: Nvutu Eladio <54270196+Nvutu-Eladio@users.noreply.github.com>
+Date:   Thu Dec 28 18:28:43 2023 -0300
+
+    Create Nvutu-Eladio.md
+
+[33mcommit 24cb8a447a6d0c1bcbb9ee92f4e0559d10a29e71[m
+Author: daniel correa <eldestemido@gmail.com>
+Date:   Thu Dec 28 18:26:51 2023 -0300
+
+    feat: add dan36poars profile
+
+[33mcommit d46e9fda7cd4f69c9f88dca2cc963f380f439f00[m
+Merge: b97532772 9b5a0ead4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 21:21:24 2023 +0000
+
+    Merge pull request #20205 from comodoro-jeff/feat/community/comodoro-jeff
+
+[33mcommit 9b5a0ead475d1ce8b7f79d8c9f7370f403706393[m
+Author: Jefferson Dias Ribeiro <101947582+comodoro-jeff@users.noreply.github.com>
+Date:   Thu Dec 28 18:18:18 2023 -0300
+
+    feat: add comodoro-jeff profile
+
+[33mcommit b9753277222a16e668a58f13d92166d7f2377f07[m
+Merge: 9b6de76ee f319e44c0
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 20:53:38 2023 +0000
+
+    Merge pull request #20204 from washingtonlzc/feat/community/washingtonlzc
+
+[33mcommit 9b6de76eecd4f62c6d92635dc2ab12cf97a5d44a[m
+Merge: da21c7e38 c7a684e98
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 20:31:59 2023 +0000
+
+    Merge pull request #20203 from Th1RS/feat/community/Th1RS
+
+[33mcommit f319e44c0f46e120e273ced13d9995971470fb92[m
+Author: Washington Campos <142931668+washingtonlzc@users.noreply.github.com>
+Date:   Thu Dec 28 17:31:11 2023 -0300
+
+    Create washingtonlzc.md
+
+[33mcommit c7a684e9823ca75f1bc6111e97721367b741cfb0[m
+Author: Thiago Rodrigues dos Santos <140524605+Th1RS@users.noreply.github.com>
+Date:   Thu Dec 28 17:29:04 2023 -0300
+
+    Delete Th1RS
+
+[33mcommit da21c7e38150f7ea6dd5ec9a1bb2bbf998b605c2[m
+Merge: 570e60a6c f1ad5c3e4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 20:28:42 2023 +0000
+
+    Merge pull request #20202 from ceciisiqueira/feat/community/ceciisiqueira
+
+[33mcommit f1ad5c3e47dfd3295ac037f0be1759513649d7c4[m
+Author: Cecilia Siqueira <cs.designerg@gmail.com>
+Date:   Thu Dec 28 17:28:17 2023 -0300
+
+    Delete community/ceciliadev.md
+
+[33mcommit 0acb7d498ee0f435e6a108ece18d3b9e6e11773d[m
+Author: Thiago Rodrigues dos Santos <140524605+Th1RS@users.noreply.github.com>
+Date:   Thu Dec 28 17:27:51 2023 -0300
+
+    git commit -m feat: Th1RS.md
+    
+    N/A
+
+[33mcommit ddb3bb94a2aba6812045427efef465a654ab0026[m
+Author: Cecilia Siqueira <cs.designerg@gmail.com>
+Date:   Thu Dec 28 17:24:04 2023 -0300
+
+    Create ceciisiqueira.md
+
+[33mcommit fe2d91a4b0256cf3db3103b86b9eb2dd4185b715[m
+Author: Thiago Rodrigues dos Santos <140524605+Th1RS@users.noreply.github.com>
+Date:   Thu Dec 28 17:19:49 2023 -0300
+
+    git commit -m"feat: Th1RS"
+    
+    N/A
+
+[33mcommit 570e60a6c7c2d919b0a1fd9f0a04a9efa7538524[m
+Merge: a00f4d0b7 0fe7d1fca
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 20:16:58 2023 +0000
+
+    Merge pull request #20200 from rvfs/rvfs
+
+[33mcommit 03bbd7edba72f32b9f0cd604c6fb502746c9c312[m
+Author: Cecilia Siqueira <cs.designerg@gmail.com>
+Date:   Thu Dec 28 16:59:24 2023 -0300
+
+    Create ceciliadev.md
+
+[33mcommit a00f4d0b7056a221bfe77a70abf60575845f6bf2[m
+Merge: 8589da6a3 d099afc44
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 19:31:01 2023 +0000
+
+    Merge pull request #20199 from gig-lis/feat/community/gig-lis
+
+[33mcommit d099afc44d01878b39ac39bb8c17e086f7969f24[m
+Author: Gio <giovanna.pixe@gmail.com>
+Date:   Thu Dec 28 16:26:56 2023 -0300
+
+    feat: add gig-lis profile
+
+[33mcommit 8589da6a3326447ef49ceb0e9432655796bcf259[m
+Merge: d3b65e4d9 7292f25ba
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 19:22:01 2023 +0000
+
+    Merge pull request #20198 from R4NP3R/feat/community/R4NP3R
+
+[33mcommit d3b65e4d942327c9b89fea4292b0355c2a3aed29[m
+Merge: 49b8d4ed6 7355b448f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 19:20:20 2023 +0000
+
+    Merge pull request #20197 from msilvafreitas/patch-1
+
+[33mcommit 7355b448fc50f0b85044dda128920a75684e0652[m
+Author: matheus silva <108239154+msilvafreitas@users.noreply.github.com>
+Date:   Thu Dec 28 16:19:36 2023 -0300
+
+    docs: create msilvafreitas.md
+
+[33mcommit 7292f25badaed42304e8f1860d5883886fce9926[m
+Author: R4NP3R <ssrafa.2014@gmail.com>
+Date:   Thu Dec 28 16:14:18 2023 -0300
+
+    feat: add R4NP3R profile
+
+[33mcommit 49b8d4ed662f76084359d81e57cc5f7d94c84466[m
+Merge: 87df41b06 4250876a1
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 19:06:32 2023 +0000
+
+    Merge pull request #20194 from rafassilveira19/feat/communit/rafaelsilveira
+
+[33mcommit 4250876a1133a49ec733b16e8db65b14c5df672f[m
+Author: Rafael Silveira <rafassilveira19@gmail.com>
+Date:   Thu Dec 28 15:57:49 2023 -0300
+
+    feat: add rafassilveira19 profile
+
+[33mcommit 87df41b065f3a8aaa7682e2dd89e9a1dc37a3a1a[m
+Merge: 411fd93f7 4d2b81436
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Dec 28 18:09:03 2023 +0000
+
+    Merge pull request #20191 from Mth-Ryan/feat/community/Mth-Ryan
+
+[33mcommit 4d2b8143662182e3892525290a28f9f5ddd88fe9[m
+Merge: dcef951fe 411fd93f7
+Author: Mateus Ryan <mthryan@protonmail.com>
+Date:   Thu Dec 28 15:07:51 2023 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/Mth-Ryan
+
+[33mcommit dcef951feb1c26eb2d353c5e99cf575df6cb33cd[m
+Author: Mateus Ryan <mthryan@protonmail.com>
+Date:   Thu Dec 28 15:07:37 2023 -0300
+
+    feat: add Mth-Ryan
